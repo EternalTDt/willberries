@@ -2,17 +2,17 @@
 
 Выполнил Демидов Тимофей
 
-Технологии:
+# Технологии:
 
--Html
+- Html
 
--Css
+- Css
 
--JavaScript
+- JavaScript
 
 
-Библиотеки:
+# Библиотеки:
 
--Bootstrap v5
+- Bootstrap v5
 
--Swiper Slider JS
+- Swiper Slider JS
